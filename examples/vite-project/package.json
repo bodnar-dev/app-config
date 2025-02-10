@@ -13,6 +13,6 @@
   "devDependencies": {
     "@app-config/vite": "2",
     "@app-config/cypress": "2",
-    "vite": "2"
+    "vite": "6"
   }
 }

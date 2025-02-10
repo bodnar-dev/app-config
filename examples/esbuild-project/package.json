@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "@app-config/esbuild": "2",
-    "esbuild": "0.13"
+    "esbuild": "0.25"
   }
 }

@@ -14,7 +14,7 @@
     "@app-config/main": "^2.6.0"
   },
   "devDependencies": {
-    "electron": "^15.2.0",
+    "electron": "^22.3.25",
     "playwright": "^1.16.0"
   },
   "jest": {
